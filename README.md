@@ -1,2 +1,2 @@
 # Messenger-Development
-This is a Repository is to Develop a Chat application
+This is a Repository to Develop a Chat application
